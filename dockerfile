@@ -10,9 +10,6 @@ RUN pip install \
     pandas==1.3.0 \
     scikit-learn==0.24.2 \
     matplotlib==3.4.2 \
-    tensorflow==2.6.0 \
-    keras==2.6.0 \
-    torch==1.9.0 \
     flask==2.0.1 \
     requests==2.25.1 \
     Pillow==8.2.0
